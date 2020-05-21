@@ -56,9 +56,8 @@ Find the below exposed urls to test the application.
 		
 		a. To fetch all the course details
 		http://localhost:7070/hello/welcome
+		
 
-	```
-   
 # Contributing
 
 The [issue tracker](https://github.com/Sudarshan-Gowda/Docker-Spring-Boot/issues) is the preferred channel for bug reports, features requests and submitting pull requests.
